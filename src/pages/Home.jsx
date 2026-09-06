@@ -84,8 +84,7 @@ function Home() {
               <p>
                 ROMVANE was created for individuals who seek fashion beyond
                 ordinary trends. Every collection celebrates uniqueness,
-                creativity, and self-expression through carefully curated
-                products and custom creations.
+                creativity, and self-expression.
               </p>
               <Link to="/about" className="btn-outline">
                 Read Our Story
